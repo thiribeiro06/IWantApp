@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wwJuBjshkXV3hfnrUolTO3YjQp+5yXLJfLplR4z4ljQwjRhFrel2gwDwWGyKiTd504jhgtUMB/jZ8QjEsKan/w==",
+  "dgSpecHash": "ul/ppxRmVqhZPoqwU48+O25VQ3wpCEmtRe+u/z5+tcJQN4zZ+lBYy1HJJJ9dhqnrCuynwTvYYa+noxKUJkoU5A==",
   "success": true,
   "projectFilePath": "C:\\Users\\dell\\Documents\\GitHub\\IWantApp\\src\\IWantApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
