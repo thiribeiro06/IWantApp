@@ -81,3 +81,4 @@ C:\Users\dell\Documents\GitHub\IWantApp\src\bin\Debug\net7.0\Microsoft.AspNetCor
 C:\Users\dell\Documents\GitHub\IWantApp\src\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\dell\Documents\GitHub\IWantApp\src\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\dell\Documents\GitHub\IWantApp\src\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\dell\Documents\GitHub\IWantApp\src\bin\Debug\net7.0\Dapper.dll
