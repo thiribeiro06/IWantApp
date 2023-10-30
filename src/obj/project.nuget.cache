@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yAyMZ7s3rylKtkQD9dgPg2Va9udAGVVpADMioTcmFTsgAKFV7FTkOtGB/cWNiyDLCZm5gw5KMCJTGtnT87mv4g==",
+  "dgSpecHash": "VaXArmBfKjc1YoDvkSjkKj3E9FvNBP6LJN5RUCIrjV8TFC7JnbJ0+c8lRFSi0OED3cBnEgOMTDBhoCN4Z2nJSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\dell\\Documents\\GitHub\\IWantApp\\src\\IWantApp.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\dell\\.nuget\\packages\\dapper\\2.1.15\\dapper.2.1.15.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.12\\microsoft.aspnetcore.cryptography.internal.7.0.12.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.12\\microsoft.aspnetcore.cryptography.keyderivation.7.0.12.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.12\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.12.nupkg.sha512",

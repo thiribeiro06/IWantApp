@@ -82,3 +82,4 @@ C:\Users\dell\Documents\GitHub\IWantApp\src\bin\Debug\net7.0\Microsoft.Extension
 C:\Users\dell\Documents\GitHub\IWantApp\src\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\dell\Documents\GitHub\IWantApp\src\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Users\dell\Documents\GitHub\IWantApp\src\bin\Debug\net7.0\Dapper.dll
+C:\Users\dell\Documents\GitHub\IWantApp\src\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
