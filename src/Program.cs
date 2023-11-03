@@ -22,7 +22,11 @@ builder.Services.AddAuthorization(options =>
         .Build();
     options.AddPolicy("EmployeePolicy", p =>
         p.RequireAuthenticatedUser()
-         .RequireClaim("EmployeeCode"));    
+         .RequireClaim("EmployeeCode"));
+
+    options.AddPolicy("Employee002Policy", p =>
+        p.RequireAuthenticatedUser()
+         .RequireClaim("EmployeeCode", "002"));
 });
 
 builder.Services.AddAuthentication(x =>
