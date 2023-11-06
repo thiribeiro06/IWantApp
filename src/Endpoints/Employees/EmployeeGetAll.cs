@@ -10,13 +10,14 @@ public class EmployeeGetAll
     public static Delegate Handle => Action;
 
     [Authorize(Policy = "Employee002Policy")]
-    public static IResult Action(int? page, int? rows, QueryAllUsersWithClaimName query)
+    public static async Task<IResult> Action(int? page, int? rows, QueryAllUsersWithClaimName query)
     {
         if (page == null || rows == null)
         {
             return Results.BadRequest("Valores de 'page' e/ou 'rows' são nulos. Por favor, forneça valores válidos.");
         }
+        var result = await query.Execute(page.Value, rows.Value);
 
-        return Results.Ok(query.Execute(page.Value, rows.Value));
+        return Results.Ok(result);
     }
 }
