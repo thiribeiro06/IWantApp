@@ -1,11 +1,4 @@
-﻿using IWantApp.Infra.Data;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Routing.Template;
-using System.Security.Claims;
-using static System.Net.WebRequestMethods;
-
-namespace IWantApp.Endpoints.Employees;
+﻿namespace IWantApp.Endpoints.Employees;
 
 [Authorize(Policy = "EmployeePolicy")]
 public class EmployeePost
